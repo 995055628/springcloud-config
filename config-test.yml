@@ -1,1 +1,2 @@
-这是测试的yml文件
+config:
+  info: "master,branch,springcloud-config/config-test.yml version=1"
